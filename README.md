@@ -29,8 +29,8 @@ https://www.kaggle.com/datasets/dscclass/malware/data
 
 #### Python Scripts
 
-main.py
-PE_main.py
+main.py <br>
+PE_main.py <br>
 quarantine_or_remove.py
 
 #### Dataset
@@ -39,9 +39,9 @@ data.csv
 
 #### Classifier
 
-classifier.pkl
-features.pkl
-pickle_model.pkl
+classifier.pkl <br>
+features.pkl <br>
+pickle_model.pkl <br>
 pickle_vector.pkl
 
 <br>

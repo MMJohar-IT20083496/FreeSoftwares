@@ -76,7 +76,8 @@ tzdata==2023.3 <br>
 <img width="643" alt="1" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/030618f6-fd5f-4133-bffc-1253894c597b">
 <br><br>
 
-<img width="745" alt="2 1" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/4c2e5e65-e342-4e21-ac8a-3bc55ce2e74e">
+<img width="745" alt="2 1" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/f53c3461-47a9-464b-8645-a33383b23db7">
+
 <br><br>
 
 <img width="460" alt="4" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/85fb3c4d-cb3e-4c3e-a2a9-0e25fe087931">

@@ -197,6 +197,6 @@ if __name__ == '__main__':
     
     #prediciting if the PE is malicious or not based on the extracted features
     res= clf.predict([pe_features])[0]
-    print ('The file %s is %s' % (os.path.basename(sys.argv[0]),['malicious', 'legitimate'][res]))
+    print ('The file %s is %s' % (os.path.basename(sys.argv[1]),['malicious', 'legitimate'][res]))
 
     sys.exit(res)

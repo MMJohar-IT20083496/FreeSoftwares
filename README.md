@@ -5,6 +5,7 @@ In today's digital landscape, the internet's pervasive expansion has propelled m
 
 Our project, known as the "Static PE Header Malware Scanner," addresses the pressing need for advanced malware detection mechanisms. It focuses on the static analysis of Portable Executable (PE) file headers, a fundamental component of executable files in Windows systems. By scrutinizing these PE headers, we seek to identify signs of malicious intent and enhance overall cybersecurity.
 
+<br>
 
 ## Objective
 
@@ -16,61 +17,56 @@ The primary objective of our project is to develop a reliable, efficient, and us
 
 our project's overarching objective is to provide a valuable contribution to the realm of cybersecurity. By employing advanced techniques for analyzing PE file headers, our system aims to elevate digital safety and equip users with a powerful tool to combat the ever-evolving landscape of malware threats. Through machine learning, user-friendly interfaces, and proactive threat management, we endeavor to provide a comprehensive solution that bolsters overall cybersecurity and safeguards against potential threats.
 
+<br>
 
 ## Dataset
 
 https://www.kaggle.com/datasets/dscclass/malware/data
 
+<br>
 
 ## Files
 
-### Python Scripts
+#### Python Scripts
 
 main.py
 PE_main.py
 quarantine_or_remove.py
 
-### Dataset
+#### Dataset
 
 data.csv
 
-### Classifier
+#### Classifier
 
 classifier.pkl
 features.pkl
 pickle_model.pkl
 pickle_vector.pkl
 
+<br>
+
 ## Project Requirements
 
 joblib==1.1.0
-
 numpy==1.24.3
-
 pandas==2.0.1
-
 pyfiglet==0.8.post1
-
-
 python-dateutil==2.8.2
-
 pytz==2023.3
-
 scikit-learn==0.24.1
-
 scipy==1.10.1
-
 six==1.16.0
-
 threadpoolctl==3.1.0
-
 tzdata==2023.3
 
+<br>
 
 ## System Architecture
 
 ![IW2 drawio](https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/58c63c22-909f-41d8-98da-b2ea7839de8d)
 
+<br>
 
 ## UI with Tests and Results
 
@@ -83,11 +79,10 @@ tzdata==2023.3
 <img width="460" alt="4" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/85fb3c4d-cb3e-4c3e-a2a9-0e25fe087931">
 
 
-
+<br><br><br>
 
 
 ## Did you know? 
-
 
 The first computer virus, known as the "Creeper," was created in the early 1970s as an experiment rather than for malicious purposes. It simply displayed the message "I'm the creeper, catch me if you can!" on infected computers. Since then, the world of malware has evolved significantly, emphasizing the importance of robust malware detection tools like the one presented in this project.
 

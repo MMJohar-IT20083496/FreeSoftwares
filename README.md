@@ -48,19 +48,18 @@ pickle_vector.pkl
 
 ## Project Requirements
 
-joblib==1.1.0
-numpy==1.24.3
-pandas==2.0.1
-pyfiglet==0.8.post1
-python-dateutil==2.8.2
-pytz==2023.3
-scikit-learn==0.24.1
-scipy==1.10.1
-six==1.16.0
-threadpoolctl==3.1.0
-tzdata==2023.3
+joblib==1.1.0 <br>
+numpy==1.24.3 <br>
+pandas==2.0.1 <br>
+pyfiglet==0.8.post1 <br>
+python-dateutil==2.8.2 <br>
+pytz==2023.3 <br>
+scikit-learn==0.24.1 <br>
+scipy==1.10.1 <br>
+six==1.16.0 <br>
+threadpoolctl==3.1.0 <br>
+tzdata==2023.3 <br>
 
-<br>
 
 ## System Architecture
 
@@ -71,15 +70,15 @@ tzdata==2023.3
 ## UI with Tests and Results
 
 <img width="643" alt="1" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/030618f6-fd5f-4133-bffc-1253894c597b">
-
+<br>
 
 <img width="651" alt="2" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/ed85fd78-ad0d-48a9-baa1-6edd2045211a">
-
+<br>
 
 <img width="460" alt="4" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/85fb3c4d-cb3e-4c3e-a2a9-0e25fe087931">
 
 
-<br><br><br>
+<br><br>
 
 
 ## Did you know? 

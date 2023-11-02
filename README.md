@@ -70,18 +70,18 @@ tzdata==2023.3 <br>
 ## UI with Tests and Results
 
 <img width="643" alt="1" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/030618f6-fd5f-4133-bffc-1253894c597b">
-<br>
+<br><br><br>
 
 <img width="651" alt="2" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/ed85fd78-ad0d-48a9-baa1-6edd2045211a">
-<br>
+<br><br><br>
 
 <img width="460" alt="4" src="https://github.com/MMJ02/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/assets/60285174/85fb3c4d-cb3e-4c3e-a2a9-0e25fe087931">
 
 
-<br><br>
+<br>
 
 
-## Did you know? 
+### Did you know? 
 
 The first computer virus, known as the "Creeper," was created in the early 1970s as an experiment rather than for malicious purposes. It simply displayed the message "I'm the creeper, catch me if you can!" on infected computers. Since then, the world of malware has evolved significantly, emphasizing the importance of robust malware detection tools like the one presented in this project.
 

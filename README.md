@@ -13,7 +13,7 @@ Supported builds :: All
 
 
                                                                                                                               
-                                                                                                                              ❗️❗️❗️NOTES❗️❗️❗️
+❗️❗️❗️NOTES❗️❗️❗️
 The given text explains various cheats and options available in a video game. The cheats include abilities such as invincibility, ultra-fast running, high jumping, flying through walls, and becoming invisible. There are also options to have infinite stamina and DeadEye ability, disable wanted status and ragdoll effects, and prevent being lassoed. The "Cores helper" allows for refilling, always full, or refill of health, stamina, and DeadEye cores. Other options involve manipulating player models, interacting with online players, griefing options, friendly options like setting invincibility on a horse, teleporting options, weapon options like infinite ammo and aimbot, horse options like invincibility, infinite stamina, and speed boost, spawning options for vehicles, NPCs, rare animals, objects, and horses. World options include changing weather and freezing time, while recovery options involve manipulating in-game currency. Lastly, there are cheat protection options and settings to adjust the menu position and save/load configurations.
 
 
